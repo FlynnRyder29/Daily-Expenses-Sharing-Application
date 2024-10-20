@@ -6,3 +6,6 @@ passlib
 pyjwt
 pandas
 reportlab
+pytest
+httpx
+pydantic[email]
