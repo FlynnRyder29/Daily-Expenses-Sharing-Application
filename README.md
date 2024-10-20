@@ -21,7 +21,7 @@ Follow these steps to set up the project on your local machine.
 1. Clone the repository
 bash
 Copy code
-git clone https://github.com/yourusername/daily-expense-sharing-app.git
+git clone https://github.com/yourusername/daily-expense-sharing-app.git](https://github.com/FlynnRyder29/Daily-Expenses-Sharing-Application.git
 cd daily-expense-sharing-app
 2. Create a virtual environment
 bash
